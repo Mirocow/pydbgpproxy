@@ -1,5 +1,16 @@
 # pydbgpproxy
 
+## Install
+
+* cd /opt
+* mkdir pydbgpproxy
+* cd pydbgpproxy
+* wget https://github.com/Mirocow/pydbgpproxy/archive/master.zip ./
+* unzip master.zip ./
+* ln -s $(pwd)/pydbgpproxy /usr/local/bin/pydbgpproxy
+
+## Errors
+
 if you have such mistake
 
 ```
